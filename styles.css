@@ -1,0 +1,29 @@
+/*STYLESHEET*/
+/* Formatting the h1 header*/
+h1{
+   
+color: gold;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+/*Formatting the h2 header and p section */
+h2, p{
+    color:gold;
+    text-align: center;
+    margin: auto;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(./WhatsApp\ Image\ 2023-12-04\ at\ 13.14.34.jpeg);
+}
+img{
+    border-radius: 50%;
+    width: 250px; 
+    height: 300px;
+
+}
